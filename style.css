@@ -92,13 +92,8 @@ background-position: right 6px center;
     box-shadow: 0px 0px 5px #666;
 }
 .textubuntu {
-<<<<<<< HEAD
     background:rgba(0, 0, 0, 0.4);
     width:40%;
-=======
-    background:rgba(91, 211, 161, 0.4);
-    width:60%;
->>>>>>> master
     border:none;
     resize:none;
     -webkit-border-top-left-radius: 8px;
