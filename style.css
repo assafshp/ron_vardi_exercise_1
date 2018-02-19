@@ -92,8 +92,8 @@ background-position: right 6px center;
     box-shadow: 0px 0px 5px #666;
 }
 .textubuntu {
-    background:rgba(0, 0, 0, 0.4);
-    width:50%;
+    background:rgba(91, 211, 161, 0.4);
+    width:60%;
     border:none;
     resize:none;
     -webkit-border-top-left-radius: 8px;
@@ -103,9 +103,9 @@ background-position: right 6px center;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
     padding:15px;
-    box-shadow:0px 1px 0px rgba(225, 225, 225, 0.2), 0px 1px 0px rgba(0, 0, 0, 0.3) inset;
+    box-shadow:0px 1px 0px rgba(137, 207, 228, 0.2), 0px 1px 0px rgba(0, 0, 0, 0.3) inset;
     outline:none;
-    color:white;
+    color:rgb(25, 33, 34);
     font-weight:bold;
     float:left;
     text-shadow:1px 1px 0px black;
