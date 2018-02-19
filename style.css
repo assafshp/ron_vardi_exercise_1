@@ -284,5 +284,6 @@ background: #9BD0C2;
 content: 'Search';
 }
 #headersearch{
-color: rgb(104, 148, 214)
+color: rgb(104, 148, 214);
+background-color: rgb(38, 206, 89)
 }
